@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>ico_pan</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ico_pan" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5" transform="translate(3.000000, 3.000000)" stroke="#FFFFFF">
+            <path d="M13,0.5 L13,25" id="Path-10"></path>
+            <path d="M13,0.5 L13,25.5" id="Path-10" transform="translate(13.000000, 13.000000) rotate(-90.000000) translate(-13.000000, -13.000000) "></path>
+            <path d="M9,22 L12.2928932,25.2928932 C12.6834175,25.6834175 13.3165825,25.6834175 13.7071068,25.2928932 L17,22" id="Path-11"></path>
+            <path d="M9,0 L12.2928932,3.29289322 C12.6834175,3.68341751 13.3165825,3.68341751 13.7071068,3.29289322 L17,0" id="Path-11-Copy" transform="translate(13.000000, 2.000000) rotate(-180.000000) translate(-13.000000, -2.000000) "></path>
+            <path d="M20,11 L23.2928932,14.2928932 C23.6834175,14.6834175 24.3165825,14.6834175 24.7071068,14.2928932 L28,11" id="Path-11" transform="translate(24.000000, 13.000000) rotate(-90.000000) translate(-24.000000, -13.000000) "></path>
+            <path d="M-2,11 L1.29289322,14.2928932 C1.68341751,14.6834175 2.31658249,14.6834175 2.70710678,14.2928932 L6,11" id="Path-11-Copy" transform="translate(2.000000, 13.000000) rotate(-270.000000) translate(-2.000000, -13.000000) "></path>
+        </g>
+    </g>
+</svg>

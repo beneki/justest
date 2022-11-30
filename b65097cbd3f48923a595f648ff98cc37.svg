@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/32/metricsComparison</title>
+    <g id="Icons/32/metricsComparison" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy-2" fill="#1A2B4B" x="18" y="19" width="8" height="1"></rect>
+        <rect id="Rectangle-Copy-3" fill="#1A2B4B" x="18" y="22" width="11" height="1"></rect>
+        <rect id="Rectangle-Copy-5" fill="#1A2B4B" x="18" y="25" width="3" height="1"></rect>
+        <rect id="Rectangle-Copy-6" fill="#1A2B4B" x="3" y="19" width="6" height="1"></rect>
+        <rect id="Rectangle-Copy-7" fill="#1A2B4B" x="3" y="22" width="4" height="1"></rect>
+        <rect id="Rectangle-Copy-8" fill="#1A2B4B" x="3" y="25" width="10" height="1"></rect>
+        <path d="M8,8 C6.06700338,8 4.5,9.56700338 4.5,11.5 C4.5,13.4329966 6.06700338,15 8,15" id="Path" stroke="#1A2B4B" stroke-width="2"></path>
+        <path d="M8,15 C8.88017622,15 9.68446845,14.675102 10.29949,14.1386928 C11.0351463,13.4970684 11.5,12.5528204 11.5,11.5 C11.5,10.9500635 11.3731668,10.4297505 11.1471566,9.96671708" id="Path" stroke="#BBC7CB" stroke-width="2"></path>
+        <path d="M23,8 C21.0670034,8 19.5,9.56700338 19.5,11.5 C19.5,13.4329966 21.0670034,15 23,15 C23.7560339,15 24.45608,14.7602877 25.02828,14.3527215" id="Path" stroke="#BBC7CB" stroke-width="2"></path>
+        <path d="M23,8 C21.4400113,8 20.1183938,9.02058842 19.6664213,10.4304915" id="Path" stroke="#1A2B4B" stroke-width="2"></path>
+        <path d="M16,30 L16,29 L30,29 L30,3 L17,3 L17,29 L16,29 L16,2 L31,2 L31,30 L16,30 Z M14,2 L14,3 L2,3 L1.999,29 L14,29 L14,30 L1,30 L1,2 L14,2 Z" id="Shape" fill="#1A2B4B" fill-rule="nonzero"></path>
+        <polygon id="Rectangle" fill="#1A2B4B" points="26 3 29 3 29 6 27.5 5 26 6"></polygon>
+    </g>
+</svg>

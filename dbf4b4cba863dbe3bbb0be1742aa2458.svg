@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>ico_mousewheel</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ico_mousewheel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,5 C15.3137085,5 18,7.6862915 18,11 L18,18 C18,21.3137085 15.3137085,24 12,24 C8.6862915,24 6,21.3137085 6,18 L6,11 C6,7.6862915 8.6862915,5 12,5 Z M12,6 C9.23857625,6 7,8.23857625 7,11 L7,18 C7,20.7614237 9.23857625,23 12,23 C14.7614237,23 17,20.7614237 17,18 L17,11 C17,8.23857625 14.7614237,6 12,6 Z M12,8 C12.5522847,8 13,8.44771525 13,9 L13,12 C13,12.5522847 12.5522847,13 12,13 C11.4477153,13 11,12.5522847 11,12 L11,9 C11,8.44771525 11.4477153,8 12,8 Z" id="mousewheel" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

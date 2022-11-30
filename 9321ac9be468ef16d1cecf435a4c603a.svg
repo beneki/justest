@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <title
+     id="title2">errorSolid</title>
+  <path
+     fill="#2a2a2a"
+     d="M12 2c5.523 0 10 4.477 10 10s-4.477 10-10 10c-5.523 0-10-4.477-10-10s4.477-10 10-10zM14.828 7.757l-2.828 2.828-2.828-2.828-1.414 1.414 2.828 2.828-2.828 2.828 1.414 1.414 2.828-2.828 2.828 2.828 1.414-1.414-2.828-2.828 2.828-2.828-1.414-1.414z"
+     id="path4"
+     style="fill:#808383;fill-opacity:1" />
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>ico_collapse</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="groups_expanded" transform="translate(0.000000, -12.000000)" fill="#1D4359" fill-rule="nonzero">
+            <g id="groups_dropdowns">
+                <path d="M0,12 L16,12 L16,28 L0,28 L0,12 Z M1,13 L1,27 L15,27 L15,13 L1,13 Z M4,19 L12,19 L12,21 L4,21 L4,19 Z" id="ico_collapse"></path>
+            </g>
+        </g>
+    </g>
+</svg>

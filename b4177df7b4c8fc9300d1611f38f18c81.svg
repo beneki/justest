@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>icons/16/timeseriesFilled</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/16/timeseriesFilled" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M15,0 C15.5522847,-1.01453063e-16 16,0.44771525 16,1 L16,15 C16,15.5522847 15.5522847,16 15,16 L1,16 C0.44771525,16 6.76353751e-17,15.5522847 0,15 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01453063e-16 1,0 L15,0 Z M12.33,2 L10.645,2 L7.3269418,12.1114406 L4.90223129,8.82797849 L4.11347797,8.80784169 L2,11.383 L2,12.96 L4.47924446,9.93856357 L7.09779802,13.4845215 L7.97508211,13.3434196 L11.484643,2.65022609 L13.0221252,7.64704292 L13.9486,7.72084201 L14,7.614 L14,5.351 L13.6075939,6.1494487 L12.33,2 Z" id="timeseriesFilled" fill="#808383"></path>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/32/MetricsPainter</title>
+    <g id="Icons/32/MetricsPainter" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polyline id="Path" stroke="#1A2B4B" points="30 29.5 27.5 29.5 2.5 29.5 2.5 2.5"></polyline>
+        <rect id="Rectangle" fill="#8EA2A9" x="21" y="24" width="1" height="4"></rect>
+        <rect id="Rectangle-Copy-4" fill="#8EA2A9" x="18" y="21" width="1" height="7"></rect>
+        <rect id="Rectangle-Copy-8" fill="#8EA2A9" x="24" y="23" width="1" height="5"></rect>
+        <rect id="Rectangle-Copy-10" fill="#8EA2A9" x="27" y="23" width="1" height="5"></rect>
+        <rect id="Rectangle-Copy-5" fill="#8EA2A9" x="15" y="26" width="1" height="2"></rect>
+        <rect id="Rectangle-Copy-6" fill="#8EA2A9" x="12" y="22" width="1" height="6"></rect>
+        <rect id="Rectangle-Copy-7" fill="#8EA2A9" x="9" y="24" width="1" height="4"></rect>
+        <rect id="Rectangle-Copy-9" fill="#8EA2A9" x="6" y="22" width="1" height="6"></rect>
+        <g id="bucket" transform="translate(8.000000, 6.000000)">
+            <polygon id="Path-3" fill="#BBC7CB" transform="translate(7.271148, 10.866787) rotate(-1.000000) translate(-7.271148, -10.866787) " points="0.542337401 8.38218765 7.9999587 15.1167866 13.9999587 8.11678664 1.9999587 6.61678664"></polygon>
+            <path d="M15.5,9 L16.7693397,10.7005857 C17.2273239,11.3141657 17.3574536,12.1124797 17.118034,12.8397405 C16.8900967,13.5321226 16.243489,14 15.5145524,14 L15.4854476,14 C14.756511,14 14.1099033,13.5321226 13.881966,12.8397405 C13.6425464,12.1124797 13.7726761,11.3141657 14.2306603,10.7005857 L15.5,9 L15.5,9 Z" id="Polygon-Copy-3" fill="#1A2B4B"></path>
+            <g id="Path-2-Copy-2" transform="translate(7.500000, 7.932950) rotate(42.000000) translate(-7.500000, -7.932950) translate(2.500000, 2.432950)" stroke="#1A2B4B">
+                <rect id="Rectangle" x="0" y="0.5" width="10" height="10"></rect>
+                <line x1="0" y1="8" x2="10" y2="1" id="Path-2-Copy"></line>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>ico_zoom</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ico_zoom" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(4.000000, 4.000000)">
+            <path d="M0,22.5 C0.583333333,22.2142857 2.91666667,20.2142857 7,16.5" id="Path-4" stroke="#FFFFFF"></path>
+            <circle id="Oval" stroke="#FFFFFF" cx="14" cy="10" r="10"></circle>
+            <path d="M14,13 L14,7" id="Path-7" stroke="#FEFEFE" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M17,10 L11,10" id="Path-7-Copy" stroke="#FEFEFE" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>
